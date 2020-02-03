@@ -1,1 +1,2 @@
-
+class Ingredient
+end 
